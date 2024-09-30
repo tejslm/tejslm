@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tejslm
-- 👀 I’m interested in product management 
-- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate with someone who can bare my dumbass coding skills
 - 📫 How to reach me here on Github itself
 
